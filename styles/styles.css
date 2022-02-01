@@ -75,7 +75,7 @@ header nav ul li:hover {
     border: rgba(255, 0, 0, 0.87) solid 2px;
     border-radius: 15px;
     background-color: rgba(100, 0, 0, 0.5);
-    padding: 3px;
+    padding: 4px;
 }
 
 a{
